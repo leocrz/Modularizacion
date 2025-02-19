@@ -1,0 +1,14 @@
+C:\ModularizaciónProgra\Modularización\Modularización\bin\Debug\net8.0\Modularización.exe
+C:\ModularizaciónProgra\Modularización\Modularización\bin\Debug\net8.0\Modularización.deps.json
+C:\ModularizaciónProgra\Modularización\Modularización\bin\Debug\net8.0\Modularización.runtimeconfig.json
+C:\ModularizaciónProgra\Modularización\Modularización\bin\Debug\net8.0\Modularización.dll
+C:\ModularizaciónProgra\Modularización\Modularización\bin\Debug\net8.0\Modularización.pdb
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.GeneratedMSBuildEditorConfig.editorconfig
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfoInputs.cache
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.AssemblyInfo.cs
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.csproj.CoreCompileInputs.cache
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.dll
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\refint\Modularización.dll
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.pdb
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\Modularización.genruntimeconfig.cache
+C:\ModularizaciónProgra\Modularización\Modularización\obj\Debug\net8.0\ref\Modularización.dll
